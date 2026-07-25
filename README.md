@@ -5,10 +5,5 @@
 
 ## Languages and Tools
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
-![Supabase](https://img.shields.io/badge/Supabase-FFC01E?style=for-the-badge&logo=supabase)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier)
+<img width="512" height="512" alt="free-icon-typescript-5968381" src="https://github.com/user-attachments/assets/730289d1-00e4-442f-b9a6-17c871c0f14d" />
+<img width="512" height="512" alt="free-icon-programming-language-16990126" src="https://github.com/user-attachments/assets/84f796b6-d5d9-4264-9c60-3644c0dbe7c4" />
