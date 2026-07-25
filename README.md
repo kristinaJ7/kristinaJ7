@@ -6,5 +6,5 @@
 
 ## Languages and Tools
 
-<img width="512" height="512" alt="free-icon-typescript-5968381" src="https://github.com/user-attachments/assets/730289d1-00e4-442f-b9a6-17c871c0f14d" />
+<img width="50" height="50" alt="free-icon-typescript-5968381" src="https://github.com/user-attachments/assets/730289d1-00e4-442f-b9a6-17c871c0f14d" />
 
