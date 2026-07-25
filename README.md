@@ -2,7 +2,7 @@
 
 
 Я начинающий full‑stack разработчик, учусь и делаю проекты на **React + TypeScript**.
-<img width="50" height="50" alt="free-icon-programming-language-16990126" src="https://github.com/user-attachments/assets/84f796b6-d5d9-4264-9c60-3644c0dbe7c4" />
+
 
 ## Languages and Tools
 
