@@ -1,6 +1,6 @@
 ## Kristina
 
-                                                             Hello, my name is Kristina
+ Hello, my name is Kristina
 
 Я full‑stack разработчик, учусь и делаю проекты на **React + TypeScript**.
 
