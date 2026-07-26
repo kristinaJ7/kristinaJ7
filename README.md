@@ -1,7 +1,7 @@
 # kristina
 
 
-Я начинающий full‑stack разработчик, учусь и делаю проекты на **React + TypeScript**.
+Я full‑stack разработчик, учусь и делаю проекты на **React + TypeScript**.
 
 
 ## Languages and Tools
@@ -13,7 +13,7 @@
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b2314444-e3d5-4f41-86f6-a6483dc7ca10" />
 
 
-
-
+# My contact information:
+k.kristina.web@bk.ru
 
 
