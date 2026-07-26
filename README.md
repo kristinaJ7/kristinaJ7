@@ -1,3 +1,4 @@
+<img width="512" height="512" alt="html-5" src="https://github.com/user-attachments/assets/a3224d33-cd1c-420e-932d-5258d4e7a65a" />
 ## kristina
 
 Я full‑stack разработчик, учусь и делаю проекты на **React + TypeScript**.
