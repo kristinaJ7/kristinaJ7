@@ -14,8 +14,5 @@
 
 
 
-         
-                                                        My contact information: 
-                                                         k.kristina.web@bk.ru
-
+                                               My contact information: [k.kristina.web@bk.ru]                                                                                            
 
