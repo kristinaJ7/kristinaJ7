@@ -1,5 +1,4 @@
-# kristina
-
+## kristina
 
 Я full‑stack разработчик, учусь и делаю проекты на **React + TypeScript**.
 
