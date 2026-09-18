@@ -16,12 +16,13 @@
 <img width="50" height="50" alt="nodejs_original_wordmark_logo_icon_146412" src="https://github.com/user-attachments/assets/aa9fb4e0-04ea-4ceb-a0b8-0f076383d9f2" />
 <img width="50" height="50" <img width="50" height="50" alt="atom" src="https://github.com/user-attachments/assets/7b95fd85-04a3-4134-8b3b-5c7907e23f2a" />
 
- ## Web-portfolio
-- **Live Demo:**  https://kristinaj7.github.io/web-portfolio/
+
 
 
 ---
+My contact information: k.kristina.web@bk.ru     
 
-My contact information: k.kristina.web@bk.ru                                                                                           
+# Web-portfolio
+- **Live Demo:**  https://kristinaj7.github.io/web-portfolio/
 ---
 
